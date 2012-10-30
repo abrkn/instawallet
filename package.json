@@ -1,0 +1,37 @@
+{
+    "name": "instawallet",
+    "version": "1.0.0",
+    "author": "Andreas Brekken <a@abrkn.com>",
+    "description": "node.js module to access the instawallet api",
+    "contributors": [
+        {
+            "name": "Andreas Brekken",
+            "email": "a@abrkn.com"
+        }
+    ],
+    "scripts": {
+        "test": "mocha"
+    },
+    "main": "./lib/instawallet",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/abrkn/instawallet"
+    },
+    "keywords": [
+        "instawallet",
+        "bitcoin",
+        "api"
+    ],
+    "dependencies": {
+        "underscore": "1.4.x",
+        "request": "2.11.x"
+    },
+    "devDependencies": {
+        "mocha": "1.6.x",
+        "expect.js": "0.2.x"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.6"
+    }
+}
