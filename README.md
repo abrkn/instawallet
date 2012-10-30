@@ -3,7 +3,12 @@ instawallet
 
 node.js module to access the instawallet api
 
-[![Build Status](https://travis-ci.org/[abrkn]/[instawallet].png)](https://travis-ci.org/[abrkn]/[instawallet])
+[![Build Status](https://travis-ci.org/abrkn/instawallet.png)](https://travis-ci.org/abrkn/instawallet)
+
+installation
+-----
+
+`npm install instawallet`
 
 donations
 -----
